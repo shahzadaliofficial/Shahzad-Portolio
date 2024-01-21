@@ -1258,12 +1258,12 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .dark_bg .form-control {
-	border: 1px solid #fff;
+	border: 1px solid #be08d6;
 }
 
 .form-control:focus {
 	background: transparent;
-	color: #fff;
+	color: #be08d6;
 	box-shadow: none;
 	outline: none;
 	border-color: #be08d6;
